@@ -11,7 +11,7 @@ LIMIT 10;
 
 -- 2. WHERE
 SELECT *
-FROM sales
+FROM  sales
 WHERE quantity > 1;
 
 -- 3. ORDER BY
