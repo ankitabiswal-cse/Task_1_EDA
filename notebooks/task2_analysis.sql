@@ -21,7 +21,7 @@ ORDER BY total_sales DESC;
 
 -- 4. LIMIT
 SELECT *
-FROM sales
+FROM  sales
 LIMIT 5;
 
 -- 5. Aggregate Functions
