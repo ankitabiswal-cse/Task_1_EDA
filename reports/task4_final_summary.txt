@@ -1,0 +1,29 @@
+
+APEXPLANET TASK 4
+ADVANCED ANALYTICS & STATISTICAL MODELING
+
+Dataset: c:\Users\HP\OneDrive\Desktop\Task_1_EDA\notebooks\cleaned_dataset.csv
+Rows analyzed: 20
+Sales column: Total_Sales
+Date column: Date
+Category column: Category
+
+Total sales: 10470.00
+Mean sales: 523.50
+Median sales: 520.00
+Standard deviation: 187.88
+
+Analysis includes:
+1. Descriptive statistics
+2. Confidence interval and available hypothesis tests
+3. Correlation analysis
+4. Sales visualization
+5. Time series and baseline forecast, when possible
+6. K-Means customer/group segmentation, when possible
+7. Regression and high/low sales classification, when possible
+
+Important:
+- Check the dataset size before interpreting model metrics.
+- Forecasts from small datasets are illustrative.
+- Classification is high/low sales, not churn prediction.
+- Statistical significance and correlation do not prove causation.

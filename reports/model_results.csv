@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2,Accuracy,Precision,Recall,F1
+Linear Regression - Sales,192.967076759892,210.798894173174,0.17380310529835985,,,,
+Logistic Regression - High/Low Sales,,,,0.6,0.5,0.5,0.5
+Decision Tree - High/Low Sales,,,,0.2,0.0,0.0,0.0

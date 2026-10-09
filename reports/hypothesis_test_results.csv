@@ -1,0 +1,4 @@
+Test,Statistic,P_Value,Significant_at_0.05
+Exploratory One-Sample T-Test,0.08331251774729219,0.9344745491663493,False
+ANOVA Across Categories,4.328891130000481,0.020503982661078564,True
+Chi-Square Category vs Gender,0.8417508417508415,0.8394568954714563,False
