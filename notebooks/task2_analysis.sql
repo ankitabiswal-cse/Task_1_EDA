@@ -192,7 +192,7 @@ GROUP BY customer_key;
 CREATE VIEW IF NOT EXISTS category_sales_view AS
 SELECT
     category,
-    COUNT(*) AS transactions,
+    COUNT(*) AS transactions,   
     SUM(total_sales) AS total_sales
 FROM sales
 GROUP BY category;
